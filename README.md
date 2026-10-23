@@ -1,6 +1,6 @@
 ## Merhaba, ben Kaan Yıldız 👋
 
-İzmir'de yaşayan full-stack geliştiriciyim. **Python** ve **TypeScript** ile REST API'ler, veritabanı odaklı uygulamalar ve masaüstü araçlar geliştiriyorum. **GUT Group**'ta Odoo ERP projelerinde çalışıyorum ve ortağım [Cem Çal](https://github.com/JemJal) ile birlikte **Uranüs**'ü kurduk: işletmelere web sitesi, Odoo ERP ve özel yazılım çözümleri sunuyoruz.
+İzmir'de yaşayan full-stack geliştiriciyim. **Python**, **TypeScript** ve **Java** ile REST API'ler, veritabanı odaklı uygulamalar ve masaüstü araçlar geliştiriyorum. **GUT Group**'ta Odoo ERP projelerinde çalışıyorum ve ortağım [Cem Çal](https://github.com/JemJal) ile birlikte **Uranüs**'ü kurduk: işletmelere web sitesi, Odoo ERP ve özel yazılım çözümleri sunuyoruz.
 
 - 📍 İzmir, Türkiye · uzaktan çalışmaya açığım
 - 🏢 [GUT Group](https://github.com/GUT-Group) · Odoo ERP
@@ -10,6 +10,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -28,6 +29,8 @@
 |---|---|---|
 | [**kitap-magazasi**](https://github.com/kaanyildiz14/kitap-magazasi) | Full-stack kitap mağazası: JWT ile üyelik, roller, satır kilitli transaction'larla sipariş, gerçek PostgreSQL'e karşı eşzamanlılık testleri | TypeScript · Express 5 · PostgreSQL · Next.js · Vitest |
 | [**harcama-takip**](https://github.com/kaanyildiz14/harcama-takip) | Kategori grafiği, CSV dışa aktarma ve canlı döviz kuru içeren masaüstü harcama takip uygulaması | Python · PyQt5 · SQLite · pytest |
+| [**hasta-kayit-sistemi**](https://github.com/kaanyildiz14/hasta-kayit-sistemi) | Hasta kabul için kayıt, anlık arama, güncelleme ve yazdırma; TC çakışma kontrolü, 17 test | Java · Swing · SQLite · Maven · JUnit |
+| [**atm-banka-simulasyonu**](https://github.com/kaanyildiz14/atm-banka-simulasyonu) | Hesap açma ve PIN ile giriş yapılan ATM simülasyonu, 15 test | Java · Swing · SQLite · Maven · JUnit |
 
 ### 🌱 Şu an
 
