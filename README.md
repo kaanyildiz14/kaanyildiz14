@@ -26,7 +26,7 @@
 
 | Proje | Açıklama | Teknolojiler |
 |---|---|---|
-| [**kitap-magazasi-api**](https://github.com/kaanyildiz14/kitap-magazasi-api) | Stok ve satış yönetimi için REST API. Atomik satış işlemi, Zod doğrulama, katmanlı mimari, 14 test | TypeScript · Express 5 · PostgreSQL · Vitest |
+| [**kitap-magazasi**](https://github.com/kaanyildiz14/kitap-magazasi) | Full-stack kitap mağazası: JWT ile üyelik, roller, satır kilitli transaction'larla sipariş, gerçek PostgreSQL'e karşı eşzamanlılık testleri | TypeScript · Express 5 · PostgreSQL · Next.js · Vitest |
 | [**harcama-takip**](https://github.com/kaanyildiz14/harcama-takip) | Kategori grafiği, CSV dışa aktarma ve canlı döviz kuru içeren masaüstü harcama takip uygulaması | Python · PyQt5 · SQLite · pytest |
 
 ### 🌱 Şu an
