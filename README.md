@@ -4,7 +4,7 @@
 
 - 📍 İzmir, Türkiye · uzaktan çalışmaya açığım
 - 🏢 [GUT Group](https://github.com/GUT-Group) · Odoo ERP
-- 🪐 Uranüs: kurucu ortak
+- 🪐 [Uranüs](https://uranusyazilim.com): kurucu ortak
 
 ### 🛠️ Teknolojiler
 
@@ -31,11 +31,12 @@
 
 ### 🌱 Şu an
 
-- Uranüs'ün web sitesini yayına hazırlıyorum (Astro + Tailwind)
+- [uranusyazilim.com](https://uranusyazilim.com) üzerinden işletmelere web ve ERP çözümleri sunuyoruz
 - Odoo ERP özelleştirme ve modül geliştirme üzerinde çalışıyorum
 - Docker, CI/CD ve test odaklı geliştirme üzerine kendimi geliştiriyorum
 
 ### 📫 İletişim
 
+[![Uranüs](https://img.shields.io/badge/Uranüs-uranusyazilim.com-4F46E5?style=flat-square&logo=googlechrome&logoColor=white)](https://uranusyazilim.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaan_Yıldız-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-y%C4%B1ld%C4%B1z-1b0a11420/)
 [![GitHub](https://img.shields.io/badge/GitHub-kaanyildiz14-181717?style=flat-square&logo=github)](https://github.com/kaanyildiz14)
