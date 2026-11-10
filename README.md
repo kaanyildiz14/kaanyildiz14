@@ -29,6 +29,7 @@
 |---|---|---|
 | [**kitap-magazasi**](https://github.com/kaanyildiz14/kitap-magazasi) | Full-stack kitap mağazası: JWT ile üyelik, roller, satır kilitli transaction'larla sipariş, gerçek PostgreSQL'e karşı eşzamanlılık testleri | TypeScript · Express 5 · PostgreSQL · Next.js · Vitest |
 | [**tr-dogrulama**](https://github.com/kaanyildiz14/tr-dogrulama) | TC Kimlik, Vergi No, IBAN, telefon ve plaka doğrulayan, [PyPI'da yayınlanmış](https://pypi.org/project/tr-dogrulama/) Python kütüphanesi, 77 test | Python · pytest · GitHub Actions · PyPI |
+| [**sayilarla-boyama**](https://github.com/kaanyildiz14/sayilarla-boyama) | Fotoğraftan numaralı boyama şablonu çıkaran ve iPad'de taşmadan boyatan web uygulaması: k-means ile renk azaltma, bölge birleştirme, maskeli fırça · [uygulamayı aç](https://kaanyildiz14.github.io/sayilarla-boyama/) | TypeScript · Canvas · Web Worker · Vite · Vitest |
 | [**harcama-takip**](https://github.com/kaanyildiz14/harcama-takip) | Kategori grafiği, CSV dışa aktarma ve canlı döviz kuru içeren masaüstü harcama takip uygulaması | Python · PyQt5 · SQLite · pytest |
 | [**hasta-kayit-sistemi**](https://github.com/kaanyildiz14/hasta-kayit-sistemi) | Hasta kabul için kayıt, anlık arama, güncelleme ve yazdırma; TC çakışma kontrolü, 17 test | Java · Swing · SQLite · Maven · JUnit |
 | [**atm-banka-simulasyonu**](https://github.com/kaanyildiz14/atm-banka-simulasyonu) | Hesap açma ve PIN ile giriş yapılan ATM simülasyonu, 15 test | Java · Swing · SQLite · Maven · JUnit |
